@@ -40,13 +40,13 @@ lib/
 
 ## 📸 Screenshots
 
-| Login Screen | Dashboard Screen | Rewards Flip | Announcements |
-|--------------|------------------|--------------|---------------|
-| <img src="screenshots/login_screen.jpg" width="220"/> | <img src="screenshots/dashboard_screen.jpg" width="220"/> | <img src="screenshots/reward_flip.jpg" width="220"/> | <img src="screenshots/announcements.jpg" width="220"/> |
+| Login Screen | Dashboard Screen |
+|--------------|------------------|
+| <img src="screenshots/login_screen.jpeg" width="420"/> | <img src="screenshots/dashboard_screen.GIF" width="420"/> |
 
-| Leaderboard Podium | Leaderboard List | Loading Shimmer | Referral Copy |
-|--------------------|------------------|-----------------|---------------|
-| <img src="screenshots/leaderboard_podium.jpg" width="220"/> | <img src="screenshots/leaderboard_list.jpg" width="220"/> | <img src="screenshots/loading_shimmer.jpg" width="220"/> | <img src="screenshots/referral_copy.jpg" width="220"/> |
+| Leaderboard Screen | Announcement Screen |
+|--------------------|------------------|
+| <img src="screenshots/leaderboard_screen.GIF" width="420"/> | <img src="screenshots/announcement_screen.GIF" width="420"/> | 
 
 ## 🚀 Setup Instructions
 
