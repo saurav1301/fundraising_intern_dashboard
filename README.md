@@ -42,11 +42,11 @@ lib/
 
 | Login Screen | Dashboard Screen |
 |--------------|------------------|
-| <img src="screenshots/login_screen.jpeg" width="420"/> | <img src="screenshots/dashboard_screen.gif" width="420"/> |
+| <img src="screenshots/login_screen.jpeg" width="220"/> | <img src="screenshots/dashborad_screen.gif" width="220"/> |
 
 | Leaderboard Screen | Announcement Screen |
 |--------------------|------------------|
-| <img src="screenshots/leaderboard_screen.gif" width="420"/> | <img src="screenshots/announcement_screen.gif" width="420"/> | 
+| <img src="screenshots/leaderborad_screen.gif" width="220"/> | <img src="screenshots/announcement_screen.gif" width="220"/> | 
 
 ## 🚀 Setup Instructions
 
